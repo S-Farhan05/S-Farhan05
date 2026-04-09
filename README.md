@@ -86,8 +86,8 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Farhan05&bg_color=0d0d1a&color=a78bfa&line=6C63FF&point=8B5CF6&area=true&area_color=6C63FF&hide_border=false&border_color=6C63FF)](https://github.com/S-Farhan05)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=S-Farhan05&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&icon_color=8B5CF6&text_color=c4b5fd&ring_color=6C63FF&hide_border=false&card_width=380)](https://github.com/S-Farhan05)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Farhan05&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&text_color=c4b5fd&hide_border=false&card_width=260)](https://github.com/S-Farhan05)
+[![Stats](https://github-readme-stats.vercel.app/api?username=S-Farhan05&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&icon_color=8B5CF6&text_color=c4b5fd&ring_color=6C63FF&hide_border=false&card_width=380&cache_seconds=1800)](https://github.com/S-Farhan05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Farhan05&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&text_color=c4b5fd&hide_border=false&card_width=260&cache_seconds=1800)](https://github.com/S-Farhan05)
 
 </div>
 
