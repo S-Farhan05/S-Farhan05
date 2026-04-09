@@ -121,29 +121,43 @@
 
 ---
 
+---
+
 <div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&section=footer)](https://github.com/S-Farhan05)
 
+<table><tr><td>
+
 ```python
-# ✦ S-Farhan05 — runtime log ✦
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#              S-Farhan05 · runtime.log
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-def farhan():
-    stack   = ["Python", "FastAPI", "Next.js", "LLMs", "RAG", "Agents"]
-    mission = "turn ideas into deployed AI products"
-    status  = "online · building · consistent"
-    return stack, mission, status
+class AgenticDeveloper:
+    name     = "Syed Farhan Iqbal"
+    location = "Karachi, PK"
+    stack    = ["LLMs", "RAG", "Agents", "FastAPI", "Next.js"]
+    mode     = "autonomous · agentic · always building"
 
-# currently executing...
-while alive:
-    think_in_systems()    # architect before you code
-    build_with_ai()       # LLMs are the new primitives
-    ship_to_production()  # ideas don't count, products do
-    level_up()            # every day, compounding
-    # sleep()             # scheduled but rarely called
+    def run(self):
+        while self.alive:
+            self.perceive()   # observe the problem space
+            self.reason()     # think in systems
+            self.act()        # build with AI
+            self.ship()       # deliver to production
+
+# ── status: online ── mode: building ── sleep: optional ──
 ```
 
+</td></tr></table>
+
 *from Karachi · dreaming in code · shipping in reality*
-*consistency is the strategy · every commit counts · the grind compounds*
+
+*consistency is the strategy &nbsp;·&nbsp; every commit counts &nbsp;·&nbsp; the grind compounds*
+
+</div>
+
+
 
 </div>
