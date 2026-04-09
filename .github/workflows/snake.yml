@@ -1,12 +1,10 @@
 name: Generate Snake
-
-zon:
+on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
