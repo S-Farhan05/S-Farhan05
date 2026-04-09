@@ -1,10 +1,10 @@
 <div align="center">
 
-[![capsule](https://capsule-render.vercel.app/api?type=waving&height=180&text=Syed%20Farhan%20Iqbal&fontSize=48&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=14&stroke=6C63FF&strokeWidth=1)](https://github.com/S-Farhan05)
+[![capsule](https://capsule-render.vercel.app/api?type=waving&height=180&text=Syed%20Farhan%20Iqbal&fontSize=48&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18&stroke=6C63FF&strokeWidth=1)](https://github.com/S-Farhan05)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=8B5CF6&center=true&vCenter=true&width=680&lines=The+best+AI+engineer+is+a+consistent+one.;RAG+pipelines+before+breakfast.;Automation+is+not+a+shortcut%2C+it%27s+a+superpower.;200%2B+commits+and+still+accelerating.;Intelligence+is+artificial.+The+grind+is+not.;From+Karachi+%E2%80%94+building+for+the+world.)](https://github.com/S-Farhan05)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/syed-farhan-iqbal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/syed-farhan-iqbal)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0d0d1a?style=flat-square&logo=gmail&logoColor=8B5CF6)](mailto:syedfarhaniqbal123@gmail.com)
 &nbsp;
@@ -86,8 +86,8 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Farhan05&bg_color=0d0d1a&color=a78bfa&line=6C63FF&point=8B5CF6&area=true&area_color=6C63FF&hide_border=false&border_color=6C63FF)](https://github.com/S-Farhan05)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=S-Farhan05&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&icon_color=8B5CF6&text_color=c4b5fd&ring_color=6C63FF&hide_border=false&card_width=380&cache_seconds=1800)](https://github.com/S-Farhan05)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Farhan05&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=6C63FF&title_color=a78bfa&text_color=c4b5fd&hide_border=false&card_width=260&cache_seconds=1800)](https://github.com/S-Farhan05)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Farhan05&theme=tokyonight)](https://github.com/S-Farhan05)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Farhan05&theme=tokyonight)](https://github.com/S-Farhan05)
 
 </div>
 
@@ -126,7 +126,7 @@
 [![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&section=footer)](https://github.com/S-Farhan05)
 
 ```python
-# S-Farhan05 — runtime log
+# ✦ S-Farhan05 — runtime log ✦
 
 def farhan():
     stack   = ["Python", "FastAPI", "Next.js", "LLMs", "RAG", "Agents"]
@@ -136,11 +136,11 @@ def farhan():
 
 # currently executing...
 while alive:
-    think_in_systems()
-    build_with_ai()
-    ship_to_production()
-    level_up()
-    # sleep() — scheduled but rarely called
+    think_in_systems()    # architect before you code
+    build_with_ai()       # LLMs are the new primitives
+    ship_to_production()  # ideas don't count, products do
+    level_up()            # every day, compounding
+    # sleep()             # scheduled but rarely called
 ```
 
 *from Karachi · dreaming in code · shipping in reality*
