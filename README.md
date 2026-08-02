@@ -1,134 +1,163 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Syed Farhan Iqbal — Applied AI Engineer" />
+[![capsule](https://capsule-render.vercel.app/api?type=waving&height=180&text=Syed%20Farhan%20Iqbal&fontSize=48&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18&stroke=6C63FF&strokeWidth=1)](https://github.com/S-Farhan05)
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=8B5CF6&center=true&vCenter=true&width=680&lines=The+best+AI+engineer+is+a+consistent+one.;RAG+pipelines+before+breakfast.;Automation+is+not+a+shortcut%2C+it%27s+a+superpower.;200%2B+commits+and+still+accelerating.;Intelligence+is+artificial.+The+grind+is+not.;From+Karachi+%E2%80%94+building+for+the+world.)](https://github.com/S-Farhan05)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/syed-farhan-iqbal)
-[![Gmail](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:syedfarhaniqbal123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/S-Farhan05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/syed-farhan-iqbal)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0d1a?style=flat-square&logo=gmail&logoColor=8B5CF6)](mailto:syedfarhaniqbal123@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/S-Farhan05)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=S-Farhan05&style=flat-square&color=6C63FF&label=views)](https://github.com/S-Farhan05)
 
 </div>
 
-<br/>
+---
 
-## `01` &nbsp;Who I am
+<div align="center">
 
-I'm a Computer Science student and **Technical Lead for Agentic AI at Aerox ERP**, a NIC‑incubated startup in Karachi. I build LLM agents, RAG pipelines, and the full‑stack apps that put them in front of real users — started out as a web developer, pivoted hard into AI, and haven't looked back.
+### `>` Applied AI · LLM Agents · RAG Pipelines · Full-Stack · Automation
 
-```python
-class Farhan:
-    role      = "Applied AI Engineer"
-    based_in  = "Karachi, Pakistan"
-    stack     = ["LangGraph", "LlamaIndex", "FastAPI", "Next.js", "Qdrant"]
-    currently = "leading the agentic AI team at Aerox ERP"
-```
+| | |
+|:---|:---|
+| 🎓 | BS Computer Science — University of Karachi `2023 – present` |
+| 📍 | Karachi, Pakistan |
+| 🔭 | Currently going deeper into AI Agents & MCP SDK |
+| ⚡ | 200+ commits · building every single day |
 
-<br/>
+</div>
 
-## `02` &nbsp;Right now
+---
 
-- 🧭 **Technical Lead, Agentic AI @ Aerox ERP** — leading a team of interns, building out the product's AI layer
-- 🧪 **Intern @ MeetMyTrip** — building a memory agent backed by Supabase/PostgreSQL
-- 📚 Deepening my agentic AI track through the Governor Sindh GIAIC program
+## Tech Stack
 
-<br/>
-
-## `03` &nbsp;Things I've built
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="210">
 
-**🔎 Docusaurus RAG Chatbot**
-Retrieval-augmented chatbot for documentation sites — ingests Docusaurus content and answers questions grounded in it.
-`FastAPI` `Qdrant` `OpenAI SDK`
+**AI & ML**
 
-</td>
-<td width="50%" valign="top">
-
-**📊 InvestorLens AI**
-Agent-driven investment research assistant with a full-stack interface.
-`OpenAI Agents SDK` `Next.js` `PostgreSQL`
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-6C63FF?style=flat-square&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-6C63FF?style=flat-square&logo=qdrant&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="210">
 
-**🤖 Personal AI Employee**
-Local-first autonomous agent system — Gmail/WhatsApp watchers, LinkedIn auto-posting, cron scheduling, human-in-the-loop approvals, all wired together over MCP. *Silver tier finish.*
-`Claude Code` `MCP` `Obsidian`
+**Full-Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d9488?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-1a1a2e?style=flat-square&logo=neon&logoColor=00e599)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="210">
 
-**✅ AI Todo App**
-Full-stack task manager with an MCP-integrated agent layer for natural-language task management.
-`MCP` `Next.js` `FastAPI`
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/Actions-6C63FF?style=flat-square&logo=githubactions&logoColor=white)
+![MCP SDK](https://img.shields.io/badge/MCP_SDK-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## `04` &nbsp;Stack
+---
+
+## GitHub Activity
 
 <div align="center">
 
-**AI / ML**
-<br/>
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=8B5CF6)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-1a1a2e?style=flat-square&logo=openai&logoColor=6C63FF)
-![LangChain](https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=langchain&logoColor=a78bfa)
-![Qdrant](https://img.shields.io/badge/Qdrant-1a1a2e?style=flat-square&logo=qdrant&logoColor=6C63FF)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=8B5CF6)
+[![Streak](https://streak-stats.demolab.com?user=S-Farhan05&theme=tokyonight&background=0d0d1a&border=6C63FF&ring=a78bfa&fire=8B5CF6&currStreakLabel=a78bfa&sideLabels=8B5CF6&dates=6C63FF)](https://github.com/S-Farhan05)
 
-**Full-Stack**
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=0d9488)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Farhan05&bg_color=0d0d1a&color=a78bfa&line=6C63FF&point=8B5CF6&area=true&area_color=6C63FF&hide_border=false&border_color=6C63FF)](https://github.com/S-Farhan05)
 
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![Claude](https://img.shields.io/badge/Claude_Code-1a1a2e?style=flat-square&logo=anthropic&logoColor=a78bfa)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Farhan05&theme=tokyonight)](https://github.com/S-Farhan05)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Farhan05&theme=tokyonight)](https://github.com/S-Farhan05)
 
 </div>
 
-<br/>
 
-## `05` &nbsp;GitHub activity
+
+## Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=S-Farhan05&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=a78bfa&icon_color=8B5CF6&text_color=c4b5fd&border_color=6C63FF&hide_border=false" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Farhan05&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_color=6C63FF&hide_border=false" width="43%" alt="Top languages" />
+`✦` &nbsp; **HEC GenAI Program** &nbsp;·&nbsp; Top Performer &nbsp;·&nbsp; *Pak Angels × Silicon Valley × HEC*
 
-<br/>
+`✦` &nbsp; **Certified Cloud & GenAI Engineer** &nbsp;·&nbsp; Governor House, Sindh &nbsp;`Ongoing`
 
-<img src="https://streak-stats.demolab.com?user=S-Farhan05&theme=tokyonight&background=0d0d1a&border=6C63FF&ring=a78bfa&fire=8B5CF6&currStreakLabel=a78bfa&sideLabels=8B5CF6&dates=6C63FF" width="65%" alt="Streak stats" />
+`✦` &nbsp; **Python Bootcamp** &nbsp;·&nbsp; Udemy · Jose Portilla
 
 </div>
 
-<br/>
+---
+---
 
-## `06` &nbsp;Certifications
-
-- **HEC GenAI Program** — Top Performer *(Pak Angels × Silicon Valley × HEC)*
-- **Certified Cloud & GenAI Engineer** — Governor House, Sindh *(in progress)*
-- **Python Bootcamp** — Udemy, Jose Portilla
-
-<br/>
+## Contribution Snake
 
 <div align="center">
 
-*building agentic systems from Karachi, one commit at a time*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Farhan05/S-Farhan05/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Farhan05/S-Farhan05/output/github-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/S-Farhan05/S-Farhan05/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+---
+
+<div align="center">
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d1a,50:1a0a3d,100:0d0d1a&section=footer)](https://github.com/S-Farhan05)
+
+<table><tr><td>
+
+```python
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#              S-Farhan05 · runtime.log
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+class AgenticDeveloper:
+    name     = "Syed Farhan Iqbal"
+    location = "Karachi, PK"
+    stack    = ["LLMs", "RAG", "Agents", "FastAPI", "Next.js"]
+    mode     = "autonomous · agentic · always building"
+
+    def run(self):
+        while self.alive:
+            self.perceive()   # observe the problem space
+            self.reason()     # think in systems
+            self.act()        # build with AI
+            self.ship()       # deliver to production
+
+# ── status: online ── mode: building ── sleep: optional ──
+```
+
+</td></tr></table>
+
+*from Karachi · dreaming in code · shipping in reality*
+
+*consistency is the strategy &nbsp;·&nbsp; every commit counts &nbsp;·&nbsp; the grind compounds*
+
+</div>
+
+
 
 </div>
